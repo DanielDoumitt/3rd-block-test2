@@ -1,3 +1,17 @@
+body{
+    background-color:seagreen
+}
 h1{
+    color:darkred;
+}
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+    background-color:blue;
     color:red;
+    width:20px
+    
+}
+.Home{
+    text-align:center;
 }
