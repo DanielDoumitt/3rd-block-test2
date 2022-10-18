@@ -1,7 +1,7 @@
 body{
     background-color:grey
 }
-div h1{
+h1{
     color:darkred;
     text-align:center;
     font-size:48px;
@@ -25,4 +25,7 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  .a{
+color:brown;
   }
